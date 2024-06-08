@@ -37,11 +37,4 @@ WoW changes:
 
 ♟️Next Steps/Recommendation: After the analysis, I got businessmen and self-employed are more delinquent. So need to catch the reason behind it.
 
-Github Project: https://lnkd.in/dSN_HbvN
 
-Special thanks to Rishabh Mishra, For the invaluable guidance in creating this dashboard. Thank you!
-
-Feedback and tips are always appreciated.
-
-#dataanalytics #powerbideveloper #powerbidashboard
-#salesdashboard #powerbidesktop #powerbiservice #businessanalyst #dataanalyst #powerbijobs #datavisualization #datamodeling #daxfunctions
